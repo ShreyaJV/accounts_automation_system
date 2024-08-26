@@ -1,8 +1,13 @@
-# React + Vite
+ACCOUNTS AUTOMATION SYSTEM: This is a full stack project using the MERN Stack, aimed at simplifying financial tracking and management by allowing a user to maintain a record of all their expenses, monthly bills and more. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Some of the key features of this project include:
+- User Authentication: Implemented secure login and registration with JWT and bcrypt for password hashing.
+- Accounts Page: Designed pages for User Profile, account balance, and tracking expenditure.
+- Investments Tracking: Built a section to add a user's investments and shares in companies.
+- Real Estate Management: Developed a payments page to record income through rent paid by tenants, and montior its payment status.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tech Stack:
+- Frontend: CSS, HTML, React.js, Vite
+- Backend: Express.js, MongoDB, Node.js
+- Authentication: JSON Web Token (JWT), bcrypt.js
+- Development Environment: VS Code, Git Bash, MongoDB Compass. 
